@@ -1,3 +1,4 @@
+// bubble
 void bubble_sort(int arr[], int n) {
     int i, j, temp;
     for (i = 0; i < n-1; i++) {
